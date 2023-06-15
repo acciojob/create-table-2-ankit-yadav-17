@@ -2,7 +2,7 @@ function createTable() {
     //Write your code here
 	var rowCount = parseInt(prompt("Input number of rows"));
 
-	var colCount = parseInt(prompt("Input number of column"));
+	var colCount = parseInt(prompt("Input number of columns"));
 
 	var table = document.getElementById("myTable")
 
